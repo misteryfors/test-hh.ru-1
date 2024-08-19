@@ -17,7 +17,6 @@
 
 Сначала клонируйте репозиторий на свой компьютер:
 
-```bash
 git clone https://github.com/misteryfors/test-hh.ru-1.git
 
 ### 2. Клонирование репозитория
